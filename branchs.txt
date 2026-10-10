@@ -1,0 +1,9 @@
+Modificações e novas funcionalidades
+    feat ou feature/descricao-da-modificacao
+
+correção de problema
+    fix ou bugfix/descricao-do-problema
+
+modificação urgente na main
+    hotfix/descricao-do-problema
+
